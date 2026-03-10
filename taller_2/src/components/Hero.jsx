@@ -2,7 +2,7 @@ function Hero() {
   return (
     <section className="hero">
 
-      <h1>Aprende React desde cero</h1>
+      <h1>Aprende <span>React</span> desde cero</h1>
 
       <p>
         Domina la librería más popular del frontend con proyectos prácticos.
